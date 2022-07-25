@@ -66,8 +66,6 @@ Comedy Night
 
 Crab Game
 
-Cyberdrome
-
 Deepest Sword
 
 Frostrunner
